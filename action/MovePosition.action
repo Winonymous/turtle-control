@@ -1,0 +1,6 @@
+int16 x # Goal x
+int16 y # Goal y
+---
+string status # Result
+---
+string feedback # Feedback

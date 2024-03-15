@@ -1,0 +1,6 @@
+int16 x 
+int16 y
+---
+float32 angle 
+bool hyp
+bool opp
