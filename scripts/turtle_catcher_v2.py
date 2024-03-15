@@ -56,7 +56,7 @@ class TurtleCatcher(Node):
         if (difference == 0.0):
             self.speed.angular.z = 0.0
         else:
-            self.speed.angular.z = 4.0
+            self.speed.angular.z = pi
 
 
         dist = self.get_distance() * 1.2
